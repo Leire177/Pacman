@@ -1,1 +1,1 @@
-# ProyectoBuscaminas
+# Pacman
